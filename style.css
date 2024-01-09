@@ -1,0 +1,36 @@
+.container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url('green.jpeg');
+    /* height:400px; */
+    width:40%;
+    margin:50px auto;
+    border: 3px solid;
+    text-align: center;
+    background-color:rgb(6, 111, 55);
+    color:white;
+    font-size:20px;
+    font-weight: bolder;
+}
+#blackjack-el{
+    color:goldenrod
+}
+#element{
+    font-style: italic;
+}
+
+button{
+    cursor:pointer;
+    background-color: gold;
+    border:none;
+    color:#016f32;
+    width:150px;
+    padding:10px;
+    font-size:20px;
+    border-radius:5px;
+    margin-bottom: 20px;
+    margin-left:10px
+}
+
+#newCard-el{
+    background-color: rgb(213, 166, 46);
+}

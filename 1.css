@@ -1,0 +1,20 @@
+body{
+    margin-top:100px;
+    /* text-align: center; */
+}
+
+div{
+    margin:10px auto;
+    /* background-color:red; */
+    width:200px;
+    min-height: 50px;
+    border-radius:5px;
+    text-align: center; 
+}
+
+#apple{
+    background-color: red;
+}
+#orange{
+    background-color: orange;
+}
